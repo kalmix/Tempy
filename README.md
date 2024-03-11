@@ -1,2 +1,6 @@
 # Tempy
-Tempy: Windows CPU &amp; GPU Temperature Monitor - Stay on top of your system's temperature with Tempy, the easy-to-use monitor for Windows users
+Monitor your system's temperature seamlessly with Tempy, built using Win UI 3 and C# for a smooth user experience.
+
+# Dependencies
+- Livecharts 2
+- LibreHardwareMonitorLib
